@@ -2,14 +2,14 @@
 hike:
   - Path:
     Peaks: Mount Tecumseh
-    Starting Point: Waterville Ski Area
+    Starting-Point: Waterville Ski Area
     Trails: Mount Tecumseh Trail to summit, Sosman Trail, Mount Tecumseh Trail to Ski Area
   - Data:
-    Start date: 2015-12-19 
-    End date: 2015-12-19
-    Winter Hike: No
+    Start-Date: 2015-12-19 
+    End-Date: 2015-12-19
+    Winter-Hike: No
     Distance: 5.07
-    Elevation gain: 2476
+    Elevation-Gain: 2476
   - Meta:
     People: Rik, clumens
     Weather: Cold, windy, light flurries 
@@ -18,6 +18,6 @@ hike:
   - SOTA:
     Activatable: Yes
     Activated: Yes
-    Bands Activated: 2m
-    Winter Activated: Yes
-    Activator Log: http://www.sotadata.org.uk/ActivatorLog.aspx?showlog=200417&userid=6899
+    Bands-Activated: 2m
+    Winter-Activated: Yes
+    Activator-Log: http://www.sotadata.org.uk/ActivatorLog.aspx?showlog=200417&userid=6899

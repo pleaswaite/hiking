@@ -1,14 +1,14 @@
 hike:
   - Path:
     Peaks: 
-    Starting Point: 
+    Starting-Point: 
     Trails:
   - Data:
-    Start date:
-    End date: 
-    Winter Hike:
+    Start-Date:
+    End-Date: 
+    Winter-Hike:
     Distance:
-    Elevation gain:
+    Elevation-Gain:
   - Meta:
     People:
     Weather:
@@ -17,6 +17,6 @@ hike:
   - SOTA:
     Activatable:
     Activated: 
-    Bands Activated:
-    Winter Activated:
-    Activator Log:
+    Bands-Activated:
+    Winter-Activated:
+    Activator-Log:
