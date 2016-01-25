@@ -1,0 +1,22 @@
+hike:
+  - Path:
+    Peaks: Temple Mountain, Holt Peak
+    Starting-Point: Rt 101 Parking Lot
+    Trails: Wapack Trail -> Summit -> Wapack Trail
+  - Data:
+    Start-Date: 2016-01-17
+    End-Date: 2016-01-17
+    Winter-Hike: Yes
+    Distance: 5.6
+    Elevation-Gain: 571'
+  - Meta:
+    People: clumens 
+    Weather: Cold, blue skies
+    Notes: socks bunched up, even with the heat holders. 
+    Wishlist: Need boots/socks...and HF /p gear
+  - SOTA:
+    Activatable: Yes
+    Activated: Yes
+    Bands-Activated: 2m
+    Winter-Activated: Yes
+    Activator-Log: http://www.sotadata.org.uk/ActivatorLog.aspx?showlog=203159&userid=6899
